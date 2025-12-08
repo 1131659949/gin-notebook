@@ -1,6 +1,6 @@
 package types
 
-const IngestNoteKey = "note:sync"
+const IngestNoteKey = "Ingest:note"
 const (
 	QIngest = "ingest"
 	QEmbed  = "embed"
